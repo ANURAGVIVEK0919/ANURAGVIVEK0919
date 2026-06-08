@@ -1,5 +1,5 @@
 # 💫 About Me:
- Building production-grade AI systems — RAG pipelines, LLM-powered apps & intelligent automation workflows  Open to collaborating on open-source AI/ML projects that ship real impact, not just notebooks  Exploring advanced LLM evaluation, multi-agent orchestration & scaling RAG to production  Deep-diving into LangGraph, Context Engineering, Agentic AI workflows & Kubernetes for ML deployment  Ask me about building AI products from scratch, CT scan deep learning, real-time collaborative apps, or surviving 4th year AI&DS   Fun fact — I debug models faster than I debug my sleep schedule 
+ Ex-Intern Laneway Building production-grade AI systems — RAG pipelines, LLM-powered apps & intelligent automation workflows  Open to collaborating on open-source AI/ML projects that ship real impact, not just notebooks  Exploring advanced LLM evaluation, multi-agent orchestration & scaling RAG to production  Deep-diving into LangGraph, Context Engineering, Agentic AI workflows & Kubernetes for ML deployment  Ask me about building AI products from scratch, CT scan deep learning, real-time collaborative apps, or surviving 4th year AI&DS   Fun fact — I debug models faster than I debug my sleep schedule 
 
 
 ## 🌐 Socials:
